@@ -1,0 +1,14 @@
+{
+  "name": "emperor-bot-pro",
+  "version": "2.0.0",
+  "description": "Bot WhatsApp Pro avec menus et jeux",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.2",
+    "chalk": "^5.3.0",
+    "axios": "^1.6.2",
+    "node-fetch": "^3.3.2"
+  }
+}
